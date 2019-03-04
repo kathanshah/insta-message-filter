@@ -1,0 +1,997 @@
+
+
+--- Login Successfull ---
+
+
+
+Your userId is : 8227453910
+
+
+
+--- User Info  Start ---
+
+<pre>InstagramAPI\Response\UserInfoResponse Object
+(
+    [httpResponse] => GuzzleHttp\Psr7\Response Object
+        (
+            [reasonPhrase:GuzzleHttp\Psr7\Response:private] => OK
+            [statusCode:GuzzleHttp\Psr7\Response:private] => 200
+            [headers:GuzzleHttp\Psr7\Response:private] => Array
+                (
+                    [Content-Type] => Array
+                        (
+                            [0] => application/json
+                        )
+
+                    [Cache-Control] => Array
+                        (
+                            [0] => private, no-cache, no-store, must-revalidate
+                        )
+
+                    [Pragma] => Array
+                        (
+                            [0] => no-cache
+                        )
+
+                    [Expires] => Array
+                        (
+                            [0] => Sat, 01 Jan 2000 00:00:00 GMT
+                        )
+
+                    [Vary] => Array
+                        (
+                            [0] => Cookie, Accept-Language, Accept-Encoding
+                        )
+
+                    [Content-Language] => Array
+                        (
+                            [0] => en
+                        )
+
+                    [Date] => Array
+                        (
+                            [0] => Sat, 28 Jul 2018 11:35:28 GMT
+                        )
+
+                    [Strict-Transport-Security] => Array
+                        (
+                            [0] => max-age=60
+                        )
+
+                    [Set-Cookie] => Array
+                        (
+                            [0] => rur=ATN; Domain=.instagram.com; Path=/
+                            [1] => csrftoken=DkwxZ28aMJxJCsLVfYMO1QxPwDpLYDzf; Domain=.instagram.com; expires=Sat, 27-Jul-2019 11:35:2
+8 GMT; Max-Age=31449600; Path=/; Secure
+                            [2] => mid=W1xVAAABAAGih-GNsKekontd-DVJ; Domain=.instagram.com; expires=Fri, 23-Jul-2038 11:35:28 GMT; Max
+-Age=630720000; Path=/
+                            [3] => ds_user_id=8227453910; Domain=.instagram.com; expires=Fri, 26-Oct-2018 11:35:28 GMT; Max-Age=777600
+0; Path=/
+                            [4] => urlgen="{\"time\": 1532777592\054 \"1.22.12.60\": 45528}:1fjNVQ:3_atueKiLC3G1_nNm8UX8VqqWN4"; Domai
+n=.instagram.com; Path=/
+                        )
+
+                    [Connection] => Array
+                        (
+                            [0] => keep-alive
+                        )
+
+                    [x-encoded-content-encoding] => Array
+                        (
+                            [0] => gzip
+                        )
+
+                    [x-encoded-content-length] => Array
+                        (
+                            [0] => 907
+                        )
+
+                )
+
+            [headerNames:GuzzleHttp\Psr7\Response:private] => Array
+                (
+                    [content-type] => Content-Type
+                    [cache-control] => Cache-Control
+                    [pragma] => Pragma
+                    [expires] => Expires
+                    [vary] => Vary
+                    [content-language] => Content-Language
+                    [date] => Date
+                    [strict-transport-security] => Strict-Transport-Security
+                    [set-cookie] => Set-Cookie
+                    [connection] => Connection
+                    [x-encoded-content-encoding] => x-encoded-content-encoding
+                    [x-encoded-content-length] => x-encoded-content-length
+                )
+
+            [protocol:GuzzleHttp\Psr7\Response:private] => 1.1
+            [stream:GuzzleHttp\Psr7\Response:private] => GuzzleHttp\Psr7\Stream Object
+                (
+                    [stream:GuzzleHttp\Psr7\Stream:private] => Resource id #161
+                    [size:GuzzleHttp\Psr7\Stream:private] => 0
+                    [seekable:GuzzleHttp\Psr7\Stream:private] => 1
+                    [readable:GuzzleHttp\Psr7\Stream:private] => 1
+                    [writable:GuzzleHttp\Psr7\Stream:private] => 1
+                    [uri:GuzzleHttp\Psr7\Stream:private] => php://temp
+                    [customMetadata:GuzzleHttp\Psr7\Stream:private] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [_compiledPropertyMapLink:LazyJsonMapper\LazyJsonMapper:private] => Array
+        (
+            [status] => LazyJsonMapper\Property\PropertyDefinition Object
+                (
+                    [arrayDepth] => 0
+                    [propType] => string
+                    [isObjectType] =>
+                )
+
+            [message] => LazyJsonMapper\Property\PropertyDefinition Object
+                (
+                    [arrayDepth] => 0
+                    [propType] =>
+                    [isObjectType] =>
+                )
+
+            [_messages] => LazyJsonMapper\Property\PropertyDefinition Object
+                (
+                    [arrayDepth] => 1
+                    [propType] => InstagramAPI\Response\Model\_Message
+                    [isObjectType] => 1
+                )
+
+            [megaphone] => LazyJsonMapper\Property\PropertyDefinition Object
+                (
+                    [arrayDepth] => 0
+                    [propType] =>
+                    [isObjectType] =>
+                )
+
+            [user] => LazyJsonMapper\Property\PropertyDefinition Object
+                (
+                    [arrayDepth] => 0
+                    [propType] => InstagramAPI\Response\Model\User
+                    [isObjectType] => 1
+                )
+
+        )
+
+    [_objectData:LazyJsonMapper\LazyJsonMapper:private] => Array
+        (
+            [user] => Array
+                (
+                    [is_verified] =>
+                    [hd_profile_pic_versions] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [height] => 320
+                                    [url] => https://scontent-bom1-1.cdninstagram.com/vp/7c49413d136154f3a847e0c4ad9cc266/5BD5DEEA/t51
+.2885-19/s320x320/36788271_1857517894309782_7137689407716327424_n.jpg
+                                    [width] => 320
+                                )
+
+                        )
+
+                    [usertags_count] => 0
+                    [is_eligible_to_show_fb_cross_sharing_nux] =>
+                    [username] => pooja_shah_991
+                    [show_insights_terms] =>
+                    [is_video_creator] =>
+                    [reel_auto_archive] => unset
+                    [is_private] =>
+                    [show_business_conversion_icon] =>
+                    [follower_count] => 65
+                    [full_name] => Pooja Shah
+                    [aggregate_promote_engagement] =>
+                    [can_create_sponsor_tags] =>
+                    [pk] => 8227453910
+                    [include_direct_blacklist_status] => 1
+                    [can_see_organic_insights] =>
+                    [external_url] =>
+                    [profile_pic_id] => 1824752149441853455_8227453910
+                    [can_convert_to_business] => 1
+                    [following_tag_count] => 0
+                    [has_anonymous_profile_picture] =>
+                    [following_count] => 20
+                    [allowed_commenter_type] => any
+                    [hd_profile_pic_url_info] => Array
+                        (
+                            [height] => 442
+                            [url] => https://scontent-bom1-1.cdninstagram.com/vp/ac172633413f9054f6b46f0ecad297d6/5C0B83EA/t51.2885-19
+/36788271_1857517894309782_7137689407716327424_n.jpg
+                            [width] => 442
+                        )
+
+                    [is_business] =>
+                    [biography] => Wish me on 26th June🎂.... Excited, Straight forward & Pampered....
+                    [can_be_tagged_as_sponsor] =>
+                    [can_boost_post] =>
+                    [media_count] => 0
+                    [is_profile_action_needed] =>
+                    [has_chaining] => 1
+                    [has_profile_video_feed] =>
+                      [show_conversion_edit_entry] => 1
+                    [has_highlight_reels] =>
+                    [profile_pic_url] => https://scontent-bom1-1.cdninstagram.com/vp/b73a9d34229a5ca99fa444aa10f8c260/5BDB6092/t51.288
+5-19/s150x150/36788271_1857517894309782_7137689407716327424_n.jpg
+                    [is_needy] => 1
+                    [usertag_review_enabled] =>
+                    [can_follow_hashtag] => 1
+                    [feed_post_reshare_disabled] =>
+                    [besties_count] => 0
+                    [show_besties_badge] =>
+                    [recently_bestied_by_count] => 0
+                    [auto_expand_chaining] =>
+                )
+
+            [status] => ok
+        )
+
+)
+</pre>
+
+--- User Info  End ---
+
+
+--- User Info  Start ---
+
+<pre>InstagramAPI\Response\UserInfoResponse Object
+(
+    [httpResponse] => GuzzleHttp\Psr7\Response Object
+        (
+            [reasonPhrase:GuzzleHttp\Psr7\Response:private] => OK
+            [statusCode:GuzzleHttp\Psr7\Response:private] => 200
+            [headers:GuzzleHttp\Psr7\Response:private] => Array
+                (
+                    [Content-Type] => Array
+                        (
+                            [0] => application/json
+                        )
+
+                    [Cache-Control] => Array
+                        (
+                            [0] => private, no-cache, no-store, must-revalidate
+                        )
+
+                    [Pragma] => Array
+                        (
+                            [0] => no-cache
+                        )
+
+                    [Expires] => Array
+                        (
+                            [0] => Sat, 01 Jan 2000 00:00:00 GMT
+                        )
+
+                    [Vary] => Array
+                        (
+                            [0] => Cookie, Accept-Language, Accept-Encoding
+                        )
+
+                    [Content-Language] => Array
+                        (
+                            [0] => en
+                        )
+
+                    [Date] => Array
+                        (
+                            [0] => Sat, 28 Jul 2018 14:02:59 GMT
+                        )
+
+                    [Strict-Transport-Security] => Array
+                        (
+                            [0] => max-age=60
+                        )
+
+                    [Set-Cookie] => Array
+                        (
+                            [0] => rur=ATN; Domain=.instagram.com; Path=/
+                            [1] => csrftoken=DkwxZ28aMJxJCsLVfYMO1QxPwDpLYDzf; Domain=.instagram.com; expires=Sat, 27-Jul-2019 14:02:5
+9 GMT; Max-Age=31449600; Path=/; Secure
+                            [2] => mid=W1x3kgABAAHUBlxZbq3PYpQI6boR; Domain=.instagram.com; expires=Fri, 23-Jul-2038 14:02:59 GMT; Max
+-Age=630720000; Path=/
+                            [3] => ds_user_id=8227453910; Domain=.instagram.com; expires=Fri, 26-Oct-2018 14:02:59 GMT; Max-Age=777600
+0; Path=/
+                            [4] => urlgen="{\"time\": 1532777592\054 \"1.22.12.60\": 45528}:1fjPoB:yeDOyHbUDqqHq2ZMa7kt9P_ym6U"; Domai
+n=.instagram.com; Path=/
+                        )
+
+                    [Connection] => Array
+                        (
+                            [0] => keep-alive
+                        )
+
+                    [x-encoded-content-encoding] => Array
+                        (
+                            [0] => gzip
+                        )
+
+                    [x-encoded-content-length] => Array
+                        (
+                            [0] => 892
+                        )
+
+                )
+
+            [headerNames:GuzzleHttp\Psr7\Response:private] => Array
+                (
+                    [content-type] => Content-Type
+                    [cache-control] => Cache-Control
+                    [pragma] => Pragma
+                    [expires] => Expires
+                    [vary] => Vary
+                    [content-language] => Content-Language
+                    [date] => Date
+                    [strict-transport-security] => Strict-Transport-Security
+                    [set-cookie] => Set-Cookie
+                    [connection] => Connection
+                    [x-encoded-content-encoding] => x-encoded-content-encoding
+                    [x-encoded-content-length] => x-encoded-content-length
+                )
+
+            [protocol:GuzzleHttp\Psr7\Response:private] => 1.1
+            [stream:GuzzleHttp\Psr7\Response:private] => GuzzleHttp\Psr7\Stream Object
+                (
+                    [stream:GuzzleHttp\Psr7\Stream:private] => Resource id #262
+                    [size:GuzzleHttp\Psr7\Stream:private] => 0
+                    [seekable:GuzzleHttp\Psr7\Stream:private] => 1
+                    [readable:GuzzleHttp\Psr7\Stream:private] => 1
+                    [writable:GuzzleHttp\Psr7\Stream:private] => 1
+                    [uri:GuzzleHttp\Psr7\Stream:private] => php://temp
+                    [customMetadata:GuzzleHttp\Psr7\Stream:private] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [_compiledPropertyMapLink:LazyJsonMapper\LazyJsonMapper:private] => Array
+        (
+            [status] => LazyJsonMapper\Property\PropertyDefinition Object
+                (
+                    [arrayDepth] => 0
+                    [propType] => string
+                    [isObjectType] =>
+                )
+
+            [message] => LazyJsonMapper\Property\PropertyDefinition Object
+                (
+                    [arrayDepth] => 0
+                    [propType] =>
+                    [isObjectType] =>
+                )
+
+            [_messages] => LazyJsonMapper\Property\PropertyDefinition Object
+                (
+                    [arrayDepth] => 1
+                    [propType] => InstagramAPI\Response\Model\_Message
+                    [isObjectType] => 1
+                )
+
+            [megaphone] => LazyJsonMapper\Property\PropertyDefinition Object
+                (
+                    [arrayDepth] => 0
+                    [propType] =>
+                    [isObjectType] =>
+                )
+
+            [user] => LazyJsonMapper\Property\PropertyDefinition Object
+                (
+                    [arrayDepth] => 0
+                    [propType] => InstagramAPI\Response\Model\User
+                    [isObjectType] => 1
+                )
+
+        )
+
+    [_objectData:LazyJsonMapper\LazyJsonMapper:private] => Array
+        (
+            [user] => Array
+                (
+                    [can_create_sponsor_tags] =>
+                    [is_profile_action_needed] =>
+                    [show_insights_terms] =>
+                    [profile_pic_url] => https://scontent-bom1-1.cdninstagram.com/vp/b73a9d34229a5ca99fa444aa10f8c260/5BDB6092/t51.288
+5-19/s150x150/36788271_1857517894309782_7137689407716327424_n.jpg
+                    [show_conversion_edit_entry] => 1
+                    [include_direct_blacklist_status] => 1
+                    [can_convert_to_business] => 1
+                    [aggregate_promote_engagement] =>
+                    [is_business] =>
+                    [can_be_tagged_as_sponsor] =>
+                    [hd_profile_pic_versions] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [height] => 320
+                                    [url] => https://scontent-bom1-1.cdninstagram.com/vp/7c49413d136154f3a847e0c4ad9cc266/5BD5DEEA/t51
+.2885-19/s320x320/36788271_1857517894309782_7137689407716327424_n.jpg
+                                    [width] => 320
+                                )
+
+                        )
+
+                    [following_count] => 21
+                    [follower_count] => 66
+                    [has_profile_video_feed] =>
+                    [is_private] =>
+                    [full_name] => Pooja Shah
+                    [has_highlight_reels] =>
+                    [can_see_organic_insights] =>
+                    [hd_profile_pic_url_info] => Array
+                        (
+                            [height] => 442
+                            [url] => https://scontent-bom1-1.cdninstagram.com/vp/ac172633413f9054f6b46f0ecad297d6/5C0B83EA/t51.2885-19
+/36788271_1857517894309782_7137689407716327424_n.jpg
+                            [width] => 442
+                        )
+
+                    [show_business_conversion_icon] =>
+                    [is_verified] =>
+                    [username] => pooja_shah_991
+                    [following_tag_count] => 0
+                    [biography] => Wish me on 26th June🎂.... Excited, Straight forward & Pampered....
+                    [pk] => 8227453910
+                    [external_url] =>
+                    [allowed_commenter_type] => any
+                    [usertags_count] => 0
+                    [can_boost_post] =>
+                    [reel_auto_archive] => unset
+                    [is_video_creatator] =>
+                    [has_chaining] => 1
+                    [has_anonymous_profile_picture] =>
+                    [is_needy] => 1
+                    [profile_pic_id] => 1824752149441853455_8227453910
+                    [is_eligible_to_show_fb_cross_sharing_nux] =>
+                    [usertag_review_enabled] =>
+                    [media_count] => 0
+                    [can_follow_hashtag] => 1
+                    [feed_post_reshare_disabled] =>
+                    [besties_count] => 0
+                    [show_besties_badge] =>
+                    [recently_bestied_by_count] => 0
+                    [auto_expand_chaining] =>
+                )
+
+            [status] => ok
+        )
+
+)
+</pre>Your username is : pooja_shah_991
+
+--- User Info  End ---
+
+
+
+--- User Inbox  Start ---
+
+<pre>InstagramAPI\Response\DirectInboxResponse Object
+(
+    [httpResponse] => GuzzleHttp\Psr7\Response Object
+        (
+            [reasonPhrase:GuzzleHttp\Psr7\Response:private] => OK
+            [statusCode:GuzzleHttp\Psr7\Response:private] => 200
+            [headers:GuzzleHttp\Psr7\Response:private] => Array
+                (
+                    [Content-Type] => Array
+                        (
+                            [0] => application/json
+                        )
+
+                    [Cache-Control] => Array
+                        (
+                            [0] => private, no-cache, no-store, must-revalidate
+                        )
+
+                    [Pragma] => Array
+                        (
+                            [0] => no-cache
+                        )
+
+                    [Expires] => Array
+                        (
+                            [0] => Sat, 01 Jan 2000 00:00:00 GMT
+                        )
+
+                    [Vary] => Array
+                        (
+                            [0] => Cookie, Accept-Language, Accept-Encoding
+                        )
+
+                    [Content-Language] => Array
+                        (
+                            [0] => en
+                        )
+
+                    [Date] => Array
+                        (
+                            [0] => Sat, 28 Jul 2018 14:02:59 GMT
+                        )
+
+                    [Strict-Transport-Security] => Array
+                        (
+                            [0] => max-age=60
+                        )
+
+                    [Set-Cookie] => Array
+                        (
+                            [0] => rur=ATN; Domain=.instagram.com; Path=/
+                            [1] => csrftoken=DkwxZ28aMJxJCsLVfYMO1QxPwDpLYDzf; Domain=.instagram.com; expires=Sat, 27-Jul-2019 14:02:5
+9 GMT; Max-Age=31449600; Path=/; Secure
+                            [2] => mid=W1x3kwABAAGqL28hxURjE9Qnk1T1; Domain=.instagram.com; expires=Fri, 23-Jul-2038 14:02:59 GMT; Max
+-Age=630720000; Path=/
+                            [3] => ds_user_id=8227453910; Domain=.instagram.com; expires=Fri, 26-Oct-2018 14:02:59 GMT; Max-Age=777600
+0; Path=/
+                            [4] => urlgen="{\"time\": 1532777592\054 \"1.22.12.60\": 45528}:1fjPoB:yeDOyHbUDqqHq2ZMa7kt9P_ym6U"; Domai
+n=.instagram.com; Path=/
+                        )
+
+                    [Connection] => Array
+                        (
+                            [0] => keep-alive
+                        )
+
+                    [x-encoded-content-encoding] => Array
+                        (
+                            [0] => gzip
+                        )
+
+                    [x-encoded-content-length] => Array
+                        (
+                            [0] => 1563
+                        )
+
+                )
+
+            [headerNames:GuzzleHttp\Psr7\Response:private] => Array
+                (
+                    [content-type] => Content-Type
+                    [cache-control] => Cache-Control
+                    [pragma] => Pragma
+                    [expires] => Expires
+                    [vary] => Vary
+                    [content-language] => Content-Language
+                    [date] => Date
+                    [strict-transport-security] => Strict-Transport-Security
+                    [set-cookie] => Set-Cookie
+                    [connection] => Connection
+                    [x-encoded-content-encoding] => x-encoded-content-encoding
+                    [x-encoded-content-length] => x-encoded-content-length
+                )
+
+            [protocol:GuzzleHttp\Psr7\Response:private] => 1.1
+            [stream:GuzzleHttp\Psr7\Response:private] => GuzzleHttp\Psr7\Stream Object
+                (
+                    [stream:GuzzleHttp\Psr7\Stream:private] => Resource id #267
+                    [size:GuzzleHttp\Psr7\Stream:private] => 0
+                    [seekable:GuzzleHttp\Psr7\Stream:private] => 1
+                    [readable:GuzzleHttp\Psr7\Stream:private] => 1
+                    [writable:GuzzleHttp\Psr7\Stream:private] => 1
+                    [uri:GuzzleHttp\Psr7\Stream:private] => php://temp
+                    [customMetadata:GuzzleHttp\Psr7\Stream:private] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [_compiledPropertyMapLink:LazyJsonMapper\LazyJsonMapper:private] => Array
+        (
+            [status] => LazyJsonMapper\Property\PropertyDefinition Object
+                (
+                    [arrayDepth] => 0
+                    [propType] => string
+                    [isObjectType] =>
+                )
+
+            [message] => LazyJsonMapper\Property\PropertyDefinition Object
+                (
+                    [arrayDepth] => 0
+                    [propType] =>
+                    [isObjectType] =>
+                )
+
+            [_messages] => LazyJsonMapper\Property\PropertyDefinition Object
+                (
+                    [arrayDepth] => 1
+                    [propType] => InstagramAPI\Response\Model\_Message
+                    [isObjectType] => 1
+                )
+
+            [pending_requests_total] => LazyJsonMapper\Property\PropertyDefinition Object
+                (
+                    [arrayDepth] => 0
+                    [propType] =>
+                    [isObjectType] =>
+                )
+
+            [seq_id] => LazyJsonMapper\Property\PropertyDefinition Object
+                (
+                    [arrayDepth] => 0
+                    [propType] => string
+                    [isObjectType] =>
+                )
+
+            [pending_requests_users] => LazyJsonMapper\Property\PropertyDefinition Object
+                (
+                    [arrayDepth] => 1
+                    [propType] => InstagramAPI\Response\Model\User
+                    [isObjectType] => 1
+                )
+
+            [inbox] => LazyJsonMapper\Property\PropertyDefinition Object
+                (
+                    [arrayDepth] => 0
+                    [propType] => InstagramAPI\Response\Model\DirectInbox
+                    [isObjectType] => 1
+                )
+
+            [megaphone] => LazyJsonMapper\Property\PropertyDefinition Object
+                (
+                    [arrayDepth] => 0
+                    [propType] => InstagramAPI\Response\Model\Megaphone
+                    [isObjectType] => 1
+                )
+
+            [snapshot_at_ms] => LazyJsonMapper\Property\PropertyDefinition Object
+                (
+                    [arrayDepth] => 0
+                    [propType] => string
+                    [isObjectType] =>
+                )
+
+        )
+
+    [_objectData:LazyJsonMapper\LazyJsonMapper:private] => Array
+        (
+            [inbox] => Array
+                (
+                    [threads] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [thread_id] => 340282366841710300949128216463863386964
+                                    [thread_v2_id] => 17946625639125844
+                                    [users] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [pk] => 2293882832
+                                                    [username] => jaymin1108
+                                                    [full_name] => Jaymin Shah
+                                                    [is_private] =>
+                                                    [profile_pic_url] => https://scontent-bom1-1.cdninstagram.com/vp/cde8eaf9b561f2b89
+a07a37d870c78ae/5BF6506B/t51.2885-19/s150x150/12356365_1539511259673611_1793102872_a.jpg
+                                                    [friendship_status] => Array
+                                                        (
+                                                            [following] =>
+                                                            [blocking] =>
+                                                            [is_private] =>
+                                                            [incoming_request] =>
+                                                            [outgoing_request] =>
+                                                            [is_bestie] =>
+                                                        )
+
+                                                    [is_verified] =>
+                                                    [has_anonymous_profile_picture] =>
+                                                    [reel_auto_archive] => unset
+                                                    [is_directapp_installed] =>
+                                                )
+
+                                        )
+
+                                    [left_users] => Array
+                                        (
+                                        )
+
+                                    [items] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [item_id] => 28274819920451081293220971475369984
+                                                    [user_id] => 8227453910
+                                                    [timestamp] => 1532781059219474
+                                                    [item_type] => text
+                                                    [text] => Hii
+                                                    [client_context] => 215d9d64-71c4-4c19-bc85-8c3b2844d5c8
+                                                )
+
+                                        )
+
+                                    [last_activity_at] => 1532781059219474
+                                    [muted] =>
+                                    [is_pin] =>
+                                    [named] =>
+                                    [canonical] => 1
+                                    [pending] =>
+                                    [valued_request] =>
+                                    [thread_type] => private
+                                    [viewer_id] => 8227453910
+                                    [thread_title] => jaymin1108
+                                    [pending_score] => 1532781059219474
+                                    [vc_muted] =>
+                                    [reshare_send_count] => 2
+                                    [reshare_receive_count] => 0
+                                    [expiring_media_send_count] => 0
+                                    [expiring_media_receive_count] => 0
+                                    [inviter] => Array
+                                        (
+                                            [pk] => 8227453910
+                                            [username] => pooja_shah_991
+                                            [full_name] => Pooja Shah
+                                            [is_private] =>
+                                            [profile_pic_url] => https://scontent-bom1-1.cdninstagram.com/vp/b73a9d34229a5ca99fa444aa1
+0f8c260/5BDB6092/t51.2885-19/s150x150/36788271_1857517894309782_7137689407716327424_n.jpg
+                                            [profile_pic_id] => 1824752149441853455_8227453910
+                                            [is_verified] =>
+                                            [has_anonymous_profile_picture] =>
+                                            [reel_auto_archive] => unset
+                                        )
+
+                                    [has_older] => 1
+                                    [has_newer] =>
+                                    [last_seen_at] => Array
+                                        (
+                                            [8227453910] => Array
+                                                (
+                                                    [timestamp] => 1532781059219474
+                                                    [item_id] => 28274819920451081293220971475369984
+                                                )
+
+                                        )
+
+                                    [newest_cursor] => 28274819920451081293220971475369984
+                                    [oldest_cursor] => 28274819920451081293220971475369984
+                                    [is_spam] =>
+                                    [last_permanent_item] => Array
+                                        (
+                                            [item_id] => 28274819920451081293220971475369984
+                                            [user_id] => 8227453910
+                                            [timestamp] => 1532781059219474
+                                            [item_type] => text
+                                            [text] => Hii
+                                            [client_context] => 215d9d64-71c4-4c19-bc85-8c3b2844d5c8
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [thread_id] => 340282366841710300949128143095797523656
+                                    [thread_v2_id] => 17873257573262536
+                                    [users] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [pk] => 1547627005
+                                                    [username] => beingsalmankhan
+                                                    [full_name] => Salman Khan
+                                                    [is_private] =>
+                                                    [profile_pic_url] => https://scontent-bom1-1.cdninstagram.com/vp/8814b81ec67b03e21
+d803038cca5f877/5BFA2004/t51.2885-19/10810066_708040225931789_33645907_a.jpg
+                                                    [friendship_status] => Array
+                                                        (
+                                                            [following] => 1
+                                                            [blocking] =>
+                                                            [is_private] =>
+                                                            [incoming_request] =>
+                                                            [outgoing_request] =>
+                                                            [is_bestie] =>
+                                                        )
+
+                                                    [is_verified] => 1
+                                                    [has_anonymous_profile_picture] =>
+                                                    [reel_auto_archive] => on
+                                                    [is_directapp_installed] =>
+                                                )
+
+                                        )
+
+                                    [left_users] => Array
+                                        (
+                                        )
+
+                                    [items] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [item_id] => 28274775832059475862190358020489216
+                                                    [user_id] => 8227453910
+                                                    [timestamp] => 1532778669182976
+                                                    [item_type] => text
+                                                    [text] => Hello sir
+                                                    [client_context] => 179ef9c8-06f5-45ac-af2c-e4c912d4d0cd
+                                                )
+
+                                        )
+
+                                    [last_activity_at] => 1532778669182976
+                                    [muted] =>
+                                    [is_pin] =>
+                                    [named] =>
+                                    [canonical] => 1
+                                    [pending] =>
+                                    [valued_request] =>
+                                    [thread_type] => private
+                                    [viewer_id] => 8227453910
+                                    [thread_title] => beingsalmankhan
+                                    [pending_score] => 1532778669182976
+                                    [vc_muted] =>
+                                    [reshare_send_count] => 1
+                                    [reshare_receive_count] => 0
+                                    [expiring_media_send_count] => 0
+                                    [expiring_media_receive_count] => 0
+                                    [inviter] => Array
+                                        (
+                                            [pk] => 8227453910
+                                            [username] => pooja_shah_991
+                                            [full_name] => Pooja Shah
+                                            [is_private] =>
+                                            [profile_pic_url] => https://scontent-bom1-1.cdninstagram.com/vp/b73a9d34229a5ca99fa444aa1
+0f8c260/5BDB6092/t51.2885-19/s150x150/36788271_1857517894309782_7137689407716327424_n.jpg
+                                            [profile_pic_id] => 1824752149441853455_8227453910
+                                            [is_verified] =>
+                                            [has_anonymous_profile_picture] =>
+                                            [reel_auto_archive] => unset
+                                        )
+
+                                    [has_older] => 1
+                                    [has_newer] =>
+                                    [last_seen_at] => Array
+                                        (
+                                            [8227453910] => Array
+                                                (
+                                                    [timestamp] => 1532778669182976
+                                                    [item_id] => 28274775832059475862190358020489216
+                                                )
+
+                                        )
+
+                                    [newest_cursor] => 28274775832059475862190358020489216
+                                    [oldest_cursor] => 28274775832059475862190358020489216
+                                    [is_spam] =>
+                                    [last_permanent_item] => Array
+                                        (
+                                            [item_id] => 28274775832059475862190358020489216
+                                            [user_id] => 8227453910
+                                            [timestamp] => 1532778669182976
+                                            [item_type] => text
+                                            [text] => Hello sir
+                                            [client_context] => 179ef9c8-06f5-45ac-af2c-e4c912d4d0cd
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [thread_id] => 340282366841710300949128231627318306071
+                                    [thread_v2_id] => 17961789094044951
+                                    [users] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [pk] => 6532527281
+                                                    [username] => notty_sameer3
+                                                    [full_name] => sameer
+                                                    [is_private] =>
+                                                    [profile_pic_url] => https://scontent-bom1-1.cdninstagram.com/vp/33335708272bdc6b1
+317f93d31554c32/5C1036FF/t51.2885-19/s150x150/36828786_199125570766353_7948159460277485568_n.jpg
+                                                    [profile_pic_id] => 1827627779898810806_6532527281
+                                                    [friendship_status] => Array
+                                                        (
+                                                            [following] => 1
+                                                            [blocking] =>
+                                                            [is_private] =>
+                                                            [incoming_request] =>
+                                                            [outgoing_request] =>
+                                                            [is_bestie] =>
+                                                        )
+
+                                                    [is_verified] =>
+                                                    [has_anonymous_profile_picture] =>
+                                                    [reel_auto_archive] => unset
+                                                    [is_directapp_installed] =>
+                                                )
+
+                                        )
+
+                                    [left_users] => Array
+                                        (
+                                        )
+
+                                    [items] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [item_id] => 28260293886401624006152886490759168
+                                                    [user_id] => 6532527281
+                                                    [timestamp] => 1531993601335773
+                                                    [item_type] => text
+                                                    [text] => hi
+                                                )
+
+                                        )
+
+                                    [last_activity_at] => 1531993601335773
+                                    [muted] =>
+                                    [is_pin] =>
+                                    [named] =>
+                                    [canonical] => 1
+                                    [pending] =>
+                                    [valued_request] =>
+                                    [thread_type] => private
+                                    [viewer_id] => 8227453910
+                                    [thread_title] => notty_sameer3
+                                    [pending_score] => 1531993601335773
+                                    [vc_muted] =>
+                                    [reshare_send_count] => 0
+                                    [reshare_receive_count] => 1
+                                    [expiring_media_send_count] => 0
+                                    [expiring_media_receive_count] => 0
+                                    [inviter] => Array
+                                        (
+                                            [pk] => 6532527281
+                                            [username] => notty_sameer3
+                                            [full_name] => sameer
+                                            [is_private] =>
+                                            [profile_pic_url] => https://scontent-bom1-1.cdninstagram.com/vp/33335708272bdc6b1317f93d3
+1554c32/5C1036FF/t51.2885-19/s150x150/36828786_199125570766353_7948159460277485568_n.jpg
+                                            [profile_pic_id] => 1827627779898810806_6532527281
+                                            [is_verified] =>
+                                            [has_anonymous_profile_picture] =>
+                                            [reel_auto_archive] => unset
+                                        )
+
+                                    [has_older] => 1
+                                    [has_newer] =>
+                                    [newest_cursor] => 28260293886401624006152886490759168
+                                    [oldest_cursor] => 28260293886401624006152886490759168
+                                    [is_spam] =>
+                                    [last_permanent_item] => Array
+                                        (
+                                            [item_id] => 28260293886401624006152886490759168
+                                            [user_id] => 6532527281
+                                            [timestamp] => 1531993601335773
+                                            [item_type] => text
+                                            [text] => hi
+                                        )
+
+                                )
+
+                        )
+
+                    [has_older] =>
+                    [unseen_count] => 1
+                    [unseen_count_ts] => 1532786579367766
+                    [blended_inbox_enabled] =>
+                )
+
+            [seq_id] => 6
+            [pending_requests_total] => 2
+            [most_recent_inviter] => Array
+                (
+                    [reel_auto_archive] => unset
+                    [profile_pic_url] => https://scontent-bom1-1.cdninstagram.com/vp/4884453881f30d93334bf512a8b11495/5BF7F605/t51.288
+5-19/s150x150/35539622_2025590497769296_1690284967751319552_n.jpg
+                    [full_name] => Manojkanth Manojkanth
+                    [pk] => 3591428256
+                    [username] => manojkanthmanojkanth
+                    [profile_pic_id] => 1813806524029458795_3591428256
+                    [has_anonymous_profile_picture] =>
+                    [is_verified] =>
+                    [is_private] =>
+                )
+
+            [snapshot_at_ms] => 1532786579378
+            [status] => ok
+        )
+
+)
+</pre>

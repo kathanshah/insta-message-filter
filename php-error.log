@@ -1,0 +1,567 @@
+[29-Jul-2018 23:08:00 Europe/Berlin] PHP Warning:  array_merge(): Argument #3 is not an array in C:\xampp\htdocs\insta\inbox.php on line 33
+[29-Jul-2018 23:08:00 Europe/Berlin] PHP Warning:  array_merge(): Argument #1 is not an array in C:\xampp\htdocs\insta\inbox.php on line 33
+[29-Jul-2018 23:08:00 Europe/Berlin] PHP Warning:  array_merge(): Argument #1 is not an array in C:\xampp\htdocs\insta\inbox.php on line 33
+[29-Jul-2018 23:08:00 Europe/Berlin] PHP Warning:  array_merge(): Argument #1 is not an array in C:\xampp\htdocs\insta\inbox.php on line 33
+[29-Jul-2018 23:08:00 Europe/Berlin] PHP Warning:  array_merge(): Argument #1 is not an array in C:\xampp\htdocs\insta\inbox.php on line 33
+[29-Jul-2018 23:08:00 Europe/Berlin] PHP Warning:  array_merge(): Argument #1 is not an array in C:\xampp\htdocs\insta\inbox.php on line 33
+[29-Jul-2018 23:08:00 Europe/Berlin] PHP Warning:  array_merge(): Argument #1 is not an array in C:\xampp\htdocs\insta\inbox.php on line 33
+[29-Jul-2018 23:08:00 Europe/Berlin] PHP Notice:  Undefined property: PDOException::$getMessage in C:\xampp\htdocs\insta\inbox.php on line 42
+[29-Jul-2018 23:08:00 Europe/Berlin] 
+[29-Jul-2018 23:08:59 Europe/Berlin] PHP Warning:  array_merge(): Argument #3 is not an array in C:\xampp\htdocs\insta\inbox.php on line 33
+[29-Jul-2018 23:08:59 Europe/Berlin] PHP Warning:  array_merge(): Argument #1 is not an array in C:\xampp\htdocs\insta\inbox.php on line 33
+[29-Jul-2018 23:08:59 Europe/Berlin] PHP Warning:  array_merge(): Argument #1 is not an array in C:\xampp\htdocs\insta\inbox.php on line 33
+[29-Jul-2018 23:08:59 Europe/Berlin] PHP Warning:  array_merge(): Argument #1 is not an array in C:\xampp\htdocs\insta\inbox.php on line 33
+[29-Jul-2018 23:08:59 Europe/Berlin] PHP Warning:  array_merge(): Argument #1 is not an array in C:\xampp\htdocs\insta\inbox.php on line 33
+[29-Jul-2018 23:08:59 Europe/Berlin] PHP Warning:  array_merge(): Argument #1 is not an array in C:\xampp\htdocs\insta\inbox.php on line 33
+[29-Jul-2018 23:08:59 Europe/Berlin] PHP Warning:  array_merge(): Argument #1 is not an array in C:\xampp\htdocs\insta\inbox.php on line 33
+[29-Jul-2018 23:08:59 Europe/Berlin] PHP Notice:  Undefined property: PDOException::$getMessage in C:\xampp\htdocs\insta\inbox.php on line 42
+[29-Jul-2018 23:08:59 Europe/Berlin] 
+[29-Jul-2018 23:09:58 Europe/Berlin] PHP Notice:  Undefined property: PDOException::$getMessage in C:\xampp\htdocs\insta\inbox.php on line 42
+[29-Jul-2018 23:09:58 Europe/Berlin] 
+[29-Jul-2018 23:10:32 Europe/Berlin] SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[29-Jul-2018 23:13:01 Europe/Berlin] SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[29-Jul-2018 23:13:16 Europe/Berlin] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'insta_thread_v2_id' in 'field list'
+[30-Jul-2018 22:15:55 Europe/Berlin] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '340282366841710300949128216406476387716' for key 'insta_thread_id'
+[30-Jul-2018 22:47:04 Europe/Berlin] PHP Notice:  Use of undefined constant INSTA_EMAIL - assumed 'INSTA_EMAIL' in C:\xampp\htdocs\insta\insta.php on line 40
+[30-Jul-2018 22:47:04 Europe/Berlin] PHP Notice:  Use of undefined constant INSTA_PASS - assumed 'INSTA_PASS' in C:\xampp\htdocs\insta\insta.php on line 41
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[31-Jul-2018 22:59:18 Europe/Berlin] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Aug-2018 19:04:07 Europe/Berlin] PHP Fatal error:  Uncaught InstagramAPI\Exception\SettingsException: MySQL Connection Failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\insta\vendor\mgp25\instagram-php\src\Settings\Storage\Components\PDOStorage.php:75
+Stack trace:
+#0 C:\xampp\htdocs\insta\vendor\mgp25\instagram-php\src\Settings\StorageHandler.php(142): InstagramAPI\Settings\Storage\Components\PDOStorage->openLocation(Array)
+#1 C:\xampp\htdocs\insta\vendor\mgp25\instagram-php\src\Settings\Factory.php(202): InstagramAPI\Settings\StorageHandler->__construct(Object(InstagramAPI\Settings\Storage\MySQL), Array, Array)
+#2 C:\xampp\htdocs\insta\vendor\mgp25\instagram-php\src\Instagram.php(309): InstagramAPI\Settings\Factory::createHandler(Array, Array)
+#3 C:\xampp\htdocs\insta\insta.php(25): InstagramAPI\Instagram->__construct(false, false, Array)
+#4 {main}
+  thrown in C:\xampp\htdocs\insta\vendor\mgp25\instagram-php\src\Settings\Storage\Components\PDOStorage.php on line 75
+[02-Aug-2018 19:04:36 Europe/Berlin] PHP Fatal error:  Uncaught InstagramAPI\Exception\SettingsException: MySQL Connection Failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\insta\vendor\mgp25\instagram-php\src\Settings\Storage\Components\PDOStorage.php:75
+Stack trace:
+#0 C:\xampp\htdocs\insta\vendor\mgp25\instagram-php\src\Settings\StorageHandler.php(142): InstagramAPI\Settings\Storage\Components\PDOStorage->openLocation(Array)
+#1 C:\xampp\htdocs\insta\vendor\mgp25\instagram-php\src\Settings\Factory.php(202): InstagramAPI\Settings\StorageHandler->__construct(Object(InstagramAPI\Settings\Storage\MySQL), Array, Array)
+#2 C:\xampp\htdocs\insta\vendor\mgp25\instagram-php\src\Instagram.php(309): InstagramAPI\Settings\Factory::createHandler(Array, Array)
+#3 C:\xampp\htdocs\insta\insta.php(25): InstagramAPI\Instagram->__construct(false, false, Array)
+#4 {main}
+  thrown in C:\xampp\htdocs\insta\vendor\mgp25\instagram-php\src\Settings\Storage\Components\PDOStorage.php on line 75
+[02-Aug-2018 19:05:06 Europe/Berlin] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Undefined variable: followerData in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 19:05:10 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\insta\followers.php on line 28
+[02-Aug-2018 20:26:57 Europe/Berlin] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Aug-2018 20:27:55 Europe/Berlin] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Aug-2018 20:28:53 Europe/Berlin] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Aug-2018 20:31:15 Europe/Berlin] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[15-Aug-2018 21:41:39 Europe/Berlin] PHP Fatal error:  Uncaught InstagramAPI\Exception\SettingsException: MySQL Connection Failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\insta\vendor\mgp25\instagram-php\src\Settings\Storage\Components\PDOStorage.php:75
+Stack trace:
+#0 C:\xampp\htdocs\insta\vendor\mgp25\instagram-php\src\Settings\StorageHandler.php(142): InstagramAPI\Settings\Storage\Components\PDOStorage->openLocation(Array)
+#1 C:\xampp\htdocs\insta\vendor\mgp25\instagram-php\src\Settings\Factory.php(202): InstagramAPI\Settings\StorageHandler->__construct(Object(InstagramAPI\Settings\Storage\MySQL), Array, Array)
+#2 C:\xampp\htdocs\insta\vendor\mgp25\instagram-php\src\Instagram.php(309): InstagramAPI\Settings\Factory::createHandler(Array, Array)
+#3 C:\xampp\htdocs\insta\insta.php(25): InstagramAPI\Instagram->__construct(false, false, Array)
+#4 {main}
+  thrown in C:\xampp\htdocs\insta\vendor\mgp25\instagram-php\src\Settings\Storage\Components\PDOStorage.php on line 75

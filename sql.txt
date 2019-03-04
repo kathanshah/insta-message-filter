@@ -1,0 +1,7 @@
+CREATE SCHEMA IF NOT EXISTS `instagram`;
+
+CREATE TABLE `instagram`.`followers` ( `id` INT NOT NULL AUTO_INCREMENT PRIMARY KEY, `insta_pk` VARCHAR(50) NULL , `insta_username` VARCHAR(50) NOT NULL , `insta_full_name` VARCHAR(50) NULL , `insta_is_verified` TINYINT NULL , `created_at` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ) ENGINE = InnoDB;
+
+
+CREATE TABLE `instagram`.`inbox` ( `id` INT NOT NULL AUTO_INCREMENT PRIMARY KEY, `insta_thread_id` VARCHAR(50) UNIQUE, `insta_thread_v2_id` VARCHAR(50),`insta_pk` VARCHAR(50) NULL , `insta_username` VARCHAR(50) NOT NULL , `insta_full_name` VARCHAR(50) NULL , `insta_is_verified` TINYINT NULL, `insta_txt` TEXT NULL , `created_at` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ) ENGINE = InnoDB;
+
